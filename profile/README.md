@@ -21,7 +21,7 @@ A plug-and-play comment + reaction system for static sites, optionally powered b
 Saasuke Labs is fueled by passion and caffeine.  
 If you find our tools helpful, consider supporting us:
 
-[![GitHub Sponsors](https://img.shields.io/badge/sponsor-%F0%9F%92%96-lightgrey?logo=github&style=flat-square)](https://github.com/sponsors/YOUR_USERNAME)
+[![GitHub Sponsors](https://img.shields.io/badge/sponsor-%F0%9F%92%96-lightgrey?logo=github&style=flat-square)](https://github.com/sponsors/saasuke-labs)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-support_me-ff5f5f?logo=ko-fi&logoColor=white&style=flat-square)](https://ko-fi.com/saasukelabs)
 
 Every bit helps — thank you!
